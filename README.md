@@ -25,6 +25,6 @@ I'm a hobbist developer that makes stuff for fun.
 -
 **CPU:** Intel Core I3
 
-**GPU:** --
+**GPU:** GeForce GT 740
 
 **Memory:** 32 GB DDR3 
